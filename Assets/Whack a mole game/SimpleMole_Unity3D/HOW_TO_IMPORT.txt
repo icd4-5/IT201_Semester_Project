@@ -1,0 +1,18 @@
+SIMPLE WHACK-A-MOLE — UNITY 6 ASSET
+
+EASIEST METHOD (one file):
+1. Drag SimpleMole.dae into the Unity Project window > Assets.
+2. Drag SimpleMole from the Project window into the Scene / Hierarchy.
+3. Resize using Transform Scale as needed.
+4. Drag the model from Hierarchy into Assets/Prefabs to save a reusable prefab.
+
+ALTERNATIVE FORMAT:
+Import SimpleMole.obj and SimpleMole.mtl together (same directory).
+If your render pipeline doesn't automatically display colors, select the model's
+Materials tab or create your own URP/Lit materials and assign them.
+
+Model is 3D, not an image. Y is UP, Z+ is the front (face).
+Approx. 1.15 Unity units tall and 0.8 units across including hands.
+Base is at local Y = 0, so moving the prefab up and down animates popping.
+No animation, scripts, rig, or collider is included in this asset.
+To make the mole clickable, add a capsule collider to the placed model.

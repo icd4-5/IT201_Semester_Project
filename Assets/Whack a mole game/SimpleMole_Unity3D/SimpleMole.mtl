@@ -1,0 +1,41 @@
+# Colored materials for SimpleMole OBJ
+newmtl BodyBrown
+Ka 0.100 0.100 0.100
+Kd 0.43000 0.26000 0.18000
+Ks 0.08 0.08 0.08
+Ns 10
+illum 2
+d 1.0
+
+newmtl HeadBrown
+Ka 0.100 0.100 0.100
+Kd 0.57000 0.37000 0.25000
+Ks 0.08 0.08 0.08
+Ns 10
+illum 2
+d 1.0
+
+newmtl PawsTan
+Ka 0.100 0.100 0.100
+Kd 0.81000 0.58000 0.42000
+Ks 0.08 0.08 0.08
+Ns 10
+illum 2
+d 1.0
+
+newmtl DarkFace
+Ka 0.100 0.100 0.100
+Kd 0.14000 0.08500 0.06200
+Ks 0.08 0.08 0.08
+Ns 10
+illum 2
+d 1.0
+
+newmtl PinkNose
+Ka 0.100 0.100 0.100
+Kd 0.97000 0.48000 0.53000
+Ks 0.08 0.08 0.08
+Ns 10
+illum 2
+d 1.0
+
